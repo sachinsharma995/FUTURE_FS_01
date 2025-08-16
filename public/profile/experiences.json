@@ -1,0 +1,34 @@
+{
+    "experiences": [
+  {
+    "title": "Web Development Intern",
+    "subtitle": "Future Intern Program",
+    "workType": "Internship",
+    "workDescription": [
+      "Worked on building responsive websites using HTML, CSS, and JavaScript.",
+      "Gained hands-on experience with React.js and Git/GitHub."
+    ],
+    "dateText": "07/2025 – 08/2025"
+  },
+  {
+    "title": "Hackathon Participant",
+    "subtitle": "Quantum University Hackathon",
+    "workType": "Competition",
+    "workDescription": [
+      "Collaborated with a team to develop a Frontend based project"
+    ],
+    "dateText": "03/2025"
+  },
+  {
+    "title": "Personal Projects",
+    "subtitle": "Self Learning",
+    "workType": "Practice",
+    "workDescription": [
+      "Built a personal portfolio website using HTML, CSS, and JavaScript.",
+      "Developed an Amazon website clone as a frontend practice project."
+    ],
+    "dateText": "2024 – Present"
+  }
+]
+
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sachin-sharma-163308322/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/sachinsharma995"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sachinsharma825410@gmail.com"
+        }
+    ]
+}
